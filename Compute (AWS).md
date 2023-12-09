@@ -636,9 +636,19 @@ _**NOTE : We need to apply it in a new repository created to work accordingly**_
 ![Alt text](Shots/152.PNG)
 ![Alt text](Shots/153.PNG)
 
-* Login into the console using the created IAM user
+* Login into the console using the created IAM user from the link obtained
 
+![Alt text](Shots/154.PNG)
 
+=> Services => System manager
+
+![Alt text](Shots/155.PNG)
+![Alt text](Shots/156.PNG)
+![Alt text](Shots/157.PNG)
+![Alt text](Shots/158.PNG)
+![Alt text](Shots/159.PNG)
+![Alt text](Shots/160.PNG)
+![Alt text](Shots/161.PNG)
 
 * Now create an `Instance Profile`
 
@@ -650,7 +660,10 @@ _**NOTE : We need to apply it in a new repository created to work accordingly**_
 
 * AWS Recommends using `Configure Default Host Management`
 
-   * Navigate to systems Manager => Fleet Manager =>
+=> systems Manager => Fleet Manager =>
+
+![Alt text](Shots/162.PNG)
+![Alt text](Shots/163.PNG)
 
 * Now we can recover from key lost scenarios
 
