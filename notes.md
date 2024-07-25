@@ -534,16 +534,16 @@ echo "http://${public_ip}"
 * Login to the machine using the IP address generated from the  above script and expose the page over the browser `http://<public_ip>`
 
 * Queries for :
-   1. AMI id
-   2. security group (22 & 80)
-   3. key pair : my_id_rsa
-   4. instance size : t2.micro
+   1. AMI Id
+   2. Security Group (22 & 80)
+   3. Key-Pair : my_id_rsa
+   4. Instance Size : t2.micro
 
-   * ami_filter_name name
-   * ami_filetr_value ubuntu/images/hvm-ssd/ubuntu-jammy-22.04-amd64-server-20230208
-   * aws_keypair_name
-   * instance_type
-   * security_group_id
+      * ami_filter_name name
+      * ami_filetr_value ubuntu/images/hvm-ssd/ubuntu-jammy-22.04-amd64-server-20230208
+      * aws_keypair_name
+      * instance_type
+      * security_group_id
 
 ## Compute - Workshop (18/Mar/2023)
 
